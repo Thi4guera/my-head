@@ -2,4 +2,4 @@
 
 
 
-![](head-gif.gif)
+![](ed.gif)
